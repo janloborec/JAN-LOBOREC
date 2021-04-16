@@ -1,0 +1,129 @@
+#logo {
+font-family: 'Metal Mania', cursive;
+  font-size: 50px;
+  margin-right: 70px;
+}
+
+.nav-item {
+  font-size: 25px;
+  margin-right: 25px;
+  font-weight: bolder;
+}
+
+a {
+  color: white !important;
+}
+
+body {
+  font-family: 'Metal Mania', cursive;
+
+  background-color: #000000;
+  ;
+}
+
+#slikca {
+  background-image: url('https://scontent-frt3-2.xx.fbcdn.net/v/t1.6435-9/105493830_4212212352129813_2191504766267443306_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=Qv8K5k5VNnkAX_Uq_kd&_nc_ht=scontent-frt3-2.xx&oh=ab1d6278aee4cc7aeadb92b43528eb4b&oe=609FCECD');
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  background-size: cover;
+  font-size: 30px;
+  color: white !important;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 1) !important;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 1) !important;
+}
+#slikca1 {  background-image: url('https://scontent-frt3-1.xx.fbcdn.net/v/t1.6435-9/115803134_4370998382917875_2041849092529250359_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=e3f864&_nc_ohc=BdZkLYBJXNIAX_qoUGQ&_nc_ht=scontent-frt3-1.xx&oh=a7db4a1c1386f249167bc8c7e1530c21&oe=60A0D6C2');
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  background-size: cover;
+  font-size: 30px;
+  color: white !important;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 1) !important;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 1) !important;
+
+
+}
+
+#opis {
+  margin-top: 25%;
+  font-size: 50px;
+}
+
+#duša {margin-top: 25px;
+  padding-top: 25px;
+  font-size: 50px;
+
+}
+
+#videovrstica {
+  padding-top: 130px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+#posnetki {  padding-top: 130px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+#lepeslikce {
+  padding-top: 130px;
+  width: 99vw;
+  padding-left: 35px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+#mojeslikce {  padding-top: 130px;
+  width: 99vw;
+  padding-left: 35px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: grey;
+  border-radius: 10px;
+}
+
+#ekipa {
+  width: 100vw;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 30px;
+}
+
+.card-title {
+  font-size: 40px;
+}
+
+#opisekipe {
+  padding-top: 130px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
